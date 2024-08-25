@@ -18,7 +18,7 @@ const febHolidays = [
     "And trust me I dont want anyone else",
     "There's no one better than you❤️",
     "You're the best baby!!",
-    "Or should I say, mo gro coco d'amour que j'adore a la folie XD",
+    "Or should I say, JANNU AAP MERA DIL KI DHADKAN HO  XD",
     "Wow!! Time flies, we've already been together for a month",
     "There's some hardships,",
     "but we overcame most of them",
